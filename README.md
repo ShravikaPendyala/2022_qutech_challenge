@@ -17,6 +17,9 @@ The use of QKD (BB84) to establish a secure channel between Mario and Princess P
 # Details about Implementation
 The project has been implemented in qBraid with coding using the Qiskit. Simulations were carried out using the QuTech QX-34-L simulator while the final product uses the Spin-2 Quantum Processor. To use the program, copy the code in main.ipynb into qBraid and run it.
 
+# Our Presentation
+https://docs.google.com/presentation/d/13o474he6ygFUT0840HEKZ0_ZZxhAhbZnZK0ymtiEEKI/edit?usp=sharing
+
 # Our Experience with iQuHACK
 It was an absolute pleasure to be competing in this challenge, we were definitely able to learn a lot about QC and how all the sytsems interact with each other to produce one defined result. Additionally, via the implementation of a QKD and the Game, we learned a lot about how to fix new types of errors and issues. We are extremely grateful for the entire iQuHACK team, mentors, and sponsors for organizing this project! Once again, thank you very much for providing this awesome experience!
 
