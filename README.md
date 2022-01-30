@@ -18,7 +18,7 @@ Throughout the game, the user is required to establish a secure Quantum Channel 
 The use of QKD (BB84) to establish a secure channel between Mario and Princess Peach as well as making the decision of whether or not the channel is secure is representative of the real life application of QKD wherein the goal is to establish a secure channel and detect eavesdroppers. 
 
 # Details about Implementation
-The project has been implemented in qBraid with coding using the Qiskit. Simulations were carried out using the QuTech QX-34-L simulator while the final product uses the Spin-2 Quantum Processor.
+The project has been implemented in qBraid with coding using the Qiskit. Simulations were carried out using the QuTech QX-34-L simulator while the final product uses the Spin-2 Quantum Processor. To use the program, copy the code in main.ipynb into qBraid and run it.
 
 # Date
 29 january 2022 - 30 january 2022
