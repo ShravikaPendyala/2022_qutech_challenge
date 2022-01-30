@@ -4,9 +4,6 @@ An interactive adventure through the world of QuantuMario, testing your knowledg
 # Team
 Jaime Park, Harun Gürhan, Shravika Pendyala, Sujan Khadka
 
-# Abstract
-
-
 # How to play the game
 You play the game as Quantumario, who is trying to save Princess Peach from Bowser. On your way to Boswers castle, you face the Guardian Ducks who will ask you questions that you must answer to pass. To your aid you may have hints from the Princess, but only if you can create a secure channel to communicate with using QKD. But beware of interceptors...
 Use the clues from Princess Peach and answer the Guardian Ducks' challenges to rescue Princess! 
@@ -19,6 +16,9 @@ The use of QKD (BB84) to establish a secure channel between Mario and Princess P
 
 # Details about Implementation
 The project has been implemented in qBraid with coding using the Qiskit. Simulations were carried out using the QuTech QX-34-L simulator while the final product uses the Spin-2 Quantum Processor. To use the program, copy the code in main.ipynb into qBraid and run it.
+
+# Our Experience with iQuHACK
+It was an absolute pleasure to be competing in this challenge, we were definitely able to learn a lot about QC and how all the sytsems interact with each other to produce one defined result. Additionally, via the implementation of a QKD and the Game, we learned a lot about how to fix new types of errors and issues. We are extremely grateful for the entire iQuHACK team, mentors, and sponsors for organizing this project! Once again, thank you very much for providing this awesome experience!
 
 # Date
 29 january 2022 - 30 january 2022
